@@ -1,6 +1,8 @@
 # Follow The White Rabbit
 This is a solution (in Python) to Trustpilot's interviewing problem specified [here](https://followthewhiterabbit.trustpilot.com/cs/step3.html)
 
+NOTE: This solutiuon takes less than 10 seconds to arrive at all the 3 solutions!. If you wnat to clone it or reuse it, be smart :)
+
 ***
 ### TL;DR
 With Docker installed, just open a terminal window and run the following from the repository's root folder. This will install the image (based on Alpine so minimal footprint): 
